@@ -1,0 +1,57 @@
+# Site Settings
+title: Lions Volley Latina
+tagline: Lions Volley Latina
+email: lionsvolleylatina@gmail.com
+description: >
+  Società di Pallavolo
+baseurl: ""
+url: "https://www.lionsvolleylatina.it"
+permalink: pretty
+
+paginate: 6
+paginate_path: "/page:num"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
+
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: ""
+      layout: post
+      image: /img/home.jpg
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "authors"
+
+collections:
+  authors:
+    output: true
