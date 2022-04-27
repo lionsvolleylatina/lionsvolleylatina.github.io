@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="content">
+    {{ content }}
+</div>
+
+<div class="buttons">
+    {% if page.whatsapp %}
+    <a href="https://wa.me/{{ page.whatsapp }}" class="button is-dark" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+    {% endif %}
+
+
+    {% if page.email %}
+    <a href="mailto:{{ page.email }}" class="button is-dark" target="_blank">
+        <i class="fa fa-envelope"></i>
+    </a>
+    {% endif %}
+
+    {% if page.facebook %}
+    <a href="{{ page.facebook }}" class="button is-dark" target="_blank">
+        <i class="fab fa-facebook-f"></i>
+    </a>
+    {% endif %}
+
+    {% if page.twitter %}
+    <a href="{{ page.twitter }}" class="button is-dark" target="_blank">
+        <i class="fab fa-twitter"></i>
+    </a>
+    {% endif %}
+
+    {% if page.instagram %}
+    <a href="{{ page.instagram }}" class="button is-dark" target="_blank">
+        <i class="fab fa-instagram"></i>
+    </a>
+    {% endif %}
+
+    {% if page.linkedin %}
+    <a href="{{ page.linkedin }}" class="button is-dark" target="_blank">
+        <i class="fab fa-linkedin-in"></i>
+    </a>
+    {% endif %}
+
+</div>

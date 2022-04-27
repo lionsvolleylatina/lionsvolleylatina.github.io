@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="content">
+    {{ content }}
+</div>
+
+<div class="columns is-multiline">
+    {% for sponsor in site.sponsors %}
+        <div class="column is-12">
+            {% include sponsor-media.html %}
+        </div>
+    {% endfor %}
+</div>

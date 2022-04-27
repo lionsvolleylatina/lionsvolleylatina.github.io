@@ -1,0 +1,24 @@
+<div class="staff-media">
+    <div class="media">
+        <figure class="media-left">
+            <a href="{{ staff.url }}">
+                <p class="image is-128x128">
+                    {% if staff.image_url %}
+                    <img src="{{ staff.image_url }}" alt="{{ staff.name }}" />
+                    {% else %}
+                    <i class="fas fa-user fa-4x"></i>
+                    {% endif %}
+                </p>
+            </a>
+        </figure>
+        <div class="media-content">
+            <a href="{{ staff.url  }}">
+                <p class="title is-5">{{ staff.name }}</p>
+            </a>
+            <p class="subtitle is-5">{{ staff.position }}</p>
+            <div class="content">
+                <p>{{ staff.description }}</p>
+            </div>
+        </div>
+    </div>
+</div>

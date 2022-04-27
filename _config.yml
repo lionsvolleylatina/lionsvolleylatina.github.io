@@ -51,7 +51,39 @@ defaults:
       type: "authors"
     values:
       layout: "authors"
+  -
+    scope:
+      path: ""
+      type: "sponsors"
+    values:
+      layout: "sponsors"
+  -
+    scope:
+      path: ""
+      type: "players"
+    values:
+      layout: "players"
+  -
+    scope:
+      path: ""
+      type: "teams"
+    values:
+      layout: "teams"
+  -
+    scope:
+      path: ""
+      type: "staffs"
+    values:
+      layout: "staffs"
 
 collections:
   authors:
+    output: true
+  sponsors:
+    output: true
+  players:
+    output: true
+  teams:
+    output: true
+  staffs:
     output: true
