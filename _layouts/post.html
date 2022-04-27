@@ -22,7 +22,7 @@ layout: default
 <div class="columns is-centered">
     <div class="column is-8-desktop is-10-tablet">
         <div class="content">
-            <p><strong>Published: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</strong></p>
+            <p><strong>Pubblicato il {{ page.date | date: "%-d/%-m/%Y" }} da: {{ page.author }}</strong></p>
             {{ content }}
         </div>
 
@@ -31,6 +31,10 @@ layout: default
             <span class="tag is-primary">{{ tag }}</span>
             {% endfor %}
         </div>
+
+        {% if page.image-sec %}
+        <img src="{{page.image-sec}}">
+        {% endif %}
 
         {% assign author = site.authors | where: 'name', page.author | first %}
         {% if author %}
