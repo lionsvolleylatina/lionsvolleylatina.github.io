@@ -48,21 +48,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "authors"
-    values:
-      layout: "authors"
-  -
-    scope:
-      path: ""
       type: "sponsors"
     values:
       layout: "sponsors"
-  -
-    scope:
-      path: ""
-      type: "players"
-    values:
-      layout: "players"
   -
     scope:
       path: ""
@@ -80,8 +68,6 @@ collections:
   authors:
     output: true
   sponsors:
-    output: true
-  players:
     output: true
   teams:
     output: true

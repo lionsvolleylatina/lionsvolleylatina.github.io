@@ -37,3 +37,8 @@ $radius-small: 0;
 @import "layout";
 @import "syntax";
 @import "intro";
+
+@font-face {
+  font-family: MonsterMech;
+  src: url("../otf/MonsterMech.otf") format("opentype");
+}

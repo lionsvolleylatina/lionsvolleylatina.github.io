@@ -1,6 +1,6 @@
 ---
-layout: about
-title: Chi siamo
+layout: club
+title: Il club
 # image: /img/home.jpg
 ---
 

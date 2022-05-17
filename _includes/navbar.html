@@ -1,9 +1,9 @@
 <div class="navbar is-white">
     <div class="container">
         <div class="navbar-brand">
-            <a class="navbar-item" href="{{ site.baseurl }}/">
-                <img src="/img/logo.jpg">
-            </a>
+            <div class="navbar-item">
+                <a class="navbar-item" href="{{ site.baseurl }}/">Home</a>
+            </div>
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
@@ -11,20 +11,64 @@
             </a>
         </div>
         <div class="navbar-menu" id="navMenu">
-            <div class="navbar-item">
-                <a class="navbar-item" href="{{ site.baseurl }}/about/">Chi siamo</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Club
+                </a>
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">
+                        <a class="navbar-item" href="{{ site.baseurl }}/history/">Storia</a>
+                    </a>
+                    <a class="navbar-item">
+                        <a class="navbar-item" href="{{ site.baseurl }}/organization/">Organigramma</a>
+                    </a>
+                    <a class="navbar-item">
+                        <a class="navbar-item" href="{{ site.baseurl }}/staffs/">Staff tecnico</a>
+                    </a>
+                </div>
             </div>
-            <div class="navbar-item">
-                <a class="navbar-item" href="{{ site.baseurl }}/staffs/">Lo staff</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Stagione
+                </a>
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">
+                        <a class="navbar-item" href="{{ site.baseurl }}/2021-2022/season/">2021/2022</a>
+                    </a>
+                </div>
             </div>
-            <div class="navbar-item">
-                <a class="navbar-item" href="{{ site.baseurl }}/teams/">Le squadre</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    News
+                </a>
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">
+                        <a class="navbar-item" href="{{ site.baseurl }}/2021-2022/news/">Stagione 2011/2022</a>
+                    </a>
+                </div>
             </div>
-            <div class="navbar-item">
-                <a class="navbar-item" href="{{ site.baseurl }}/sponsors/">Gli sponsors</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Giovanili
+                </a>
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">
+                        <a class="navbar-item" href="{{ site.baseurl }}/boys/">Maschile</a>
+                    </a>
+                    <a class="navbar-item">
+                        <a class="navbar-item" href="{{ site.baseurl }}/girls/">Femminile</a>
+                    </a>
+                </div>
             </div>
-            <div class="navbar-item">
-                <a class="navbar-item" href="{{ site.baseurl }}/links/">Contattaci</a>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Sponsors
+                </a>
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">
+                        <a class="navbar-item" href="{{ site.baseurl }}/2021-2022/sponsors/">Stagione 2011/2022</a>
+                    </a>
+                </div>
             </div>
         </div>
     </div>

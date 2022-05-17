@@ -13,6 +13,10 @@
 div.highlight {
     margin-bottom: 1rem;
 }
+.navbar-item {
+    font-family: "MonsterMech";
+}
+
 
 @include desktop {
     .navbar-item {

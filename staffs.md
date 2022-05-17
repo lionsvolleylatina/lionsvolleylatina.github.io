@@ -1,6 +1,5 @@
 ---
-layout: staffs
+layout: season
 title: Il nostro staff
-# image: /img/home.jpg
 ---
 
