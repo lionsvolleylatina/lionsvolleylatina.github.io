@@ -1,6 +1,9 @@
 ---
 layout: organization
 title: L'organigramma
+author: Staff Lions
 ---
 
-Pagina in costruzione
+Questo è l'organigramma della Lions Volley nel 2022.
+
+![L'organigramma](/img/organization.jpg)
