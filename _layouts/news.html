@@ -7,4 +7,9 @@ layout: default
 </div>
 
 <div class="columns is-multiline">
+    {% for post in site.posts %}
+    <div class="column is-3">
+        {% include post-item.html %}
+    </div>
+    {% endfor %}
 </div>
