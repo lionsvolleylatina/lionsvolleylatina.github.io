@@ -7,6 +7,13 @@ description: >
 baseurl: ""
 url: "https://www.lionsvolleylatina.it"
 permalink: pretty
+social:
+  name: Lions Volley Latina
+  links:
+    - https://www.facebook.com/Lionsvolleylatina/
+locale: it_IT
+image: https://www.lionsvolleylatina.it/img/home.jpg
+google_analytics: G-ZM76D26Q46
 
 paginate: 6
 paginate_path: "/page:num"
