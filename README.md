@@ -1,7 +1,10 @@
+# Lions Volley Latina - Sito ufficiale
+---
+
 ## Come creare un nuovo post
 
 - Andare sul sito: https://github.com/
-- Effettuare la login con: `lionsvolleylatina`/`xxx`
+- Effettuare la login con: `lionsvolleylatina`/`usare la passwordinviata`
 - Cliccare sul progetto: ![976f5898ae111b12ce69cb9ec9e3599c.png](/tutorial/ffb355ac8bc14ada834248e6031da24f.png)
 - Comparirà la seguente pagina: ![5b0c13b9927bcdfbe6b74a3837f47a36.png](/tutorial/26d20476e82c4566b3cccb9eac744099.png)
 - Entrare nella cartella `_posts`
