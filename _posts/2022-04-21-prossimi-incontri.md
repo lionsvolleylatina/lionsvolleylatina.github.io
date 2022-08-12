@@ -12,8 +12,6 @@ Questi i nostri prossimi incontri
 
 ## Under 15 Maschile
 
-<a href="https://www.facebook.com/Lionsvolleylatina/">@lions_volley_latina</a> Vs. @sabaudiavolley
-
 [@lions_volley_latina](https://www.facebook.com/Lionsvolleylatina/) Vs. @sabaudiavolley
 
 
