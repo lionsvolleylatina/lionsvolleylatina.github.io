@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Il nostro primo anniversario!
-image: /img/1-anniversario.jpg
+image: /img/2022-08-12-1anniversario.jpg
 author: Staff Lions
 ---
 
