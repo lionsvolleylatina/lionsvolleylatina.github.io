@@ -5,4 +5,4 @@ image: /img/home.jpg
 author: Staff Lions
 ---
 
-L’ultimo scambio… e poi…. <a href="https://fb.watch/cEMOXFzrpM/">LIONS…LIONS….</a>
+L’ultimo scambio… e poi… [LIONS…LIONS…](https://fb.watch/cEMOXFzrpM/)
