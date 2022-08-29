@@ -5,4 +5,4 @@ image: https://scontent.fcia2-2.fna.fbcdn.net/v/t39.30808-6/297769091_1920286265
 author: Staff Lions
 ---
 
-![Vieni a giocare con noi](img/2022-08-12-1anniversario.jpg)
+![Vieni a giocare con noi](img/2022-08-29-vieni-a-giocare-con-noi.png)
