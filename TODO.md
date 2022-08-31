@@ -1,0 +1,7 @@
+- [x] fare mini tutorial con le istruzioni su come fare un nuovo post
+- [x] iniziare a mettere il menu 2022-23
+- aggiungere il link contatti nel menu che punta ad una pagina con tutti i contatti
+	- [x] aggiungere anche in fondo alla pagina i contatti
+- vedere se possibile mettere feed facebook nella home
+    - bisogna vedere su facebook come si fa
+- linkare la pagina della classifica su fipavonline
