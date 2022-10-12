@@ -1,17 +1,9 @@
 ---
 layout: sponsors
-title: Stagione 2022/2023
+title: I nostri sponsors
 ---
 
-## Scivosplash Latina
-
-![Scivosplash](img/scivosplash.png)
-
-## Chemical Battistella
-![Scivosplash](img/chemical-battistella.png)
-
-## Insurance Ciccacci & Galanti Assicurazione
-![Scivosplash](img/insurance-ciccacci-e-galanti.png)
-
-## Premiere Sporting Club
-![Scivosplash](img/premiere-sporting-club.png)
+<div class="message-body">
+    Se vuoi diventare nostro sponsor, contattaci al  <a href="tel://3922511363">392.2511363</a> o al <a
+        href="tel://3387795371">338.7795371</a>
+</div>
