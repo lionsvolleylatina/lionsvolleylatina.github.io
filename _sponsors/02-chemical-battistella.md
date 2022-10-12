@@ -7,4 +7,4 @@ title: You Chemical Battistella
 ---
 
 
-<a href="http://www.battistellayouchemical.it/" target="_blank">![pippo](img/chemical-battistella-image.png)</a>
+<a href="http://www.battistellayouchemical.it/" target="_blank">![You Chemical Battistella](img/chemical-battistella-image.png)</a>

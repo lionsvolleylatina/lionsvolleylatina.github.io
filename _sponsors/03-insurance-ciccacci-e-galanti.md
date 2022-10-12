@@ -6,3 +6,5 @@ url:
 image: 
 layout: sponsor
 ---
+
+![Insurance Ciccacci & Galanti Assicurazioni](img/insurance-ciccacci-e-galanti-image.png)

@@ -6,6 +6,6 @@ layout: sponsor
 title: Scivosplash Latina
 ---
 
-<a href="https://www.scivosplash.it/" target="_blank">![pippo](img/scivosplash-image.png)</a>
+<a href="https://www.scivosplash.it/" target="_blank">![Scivosplash Latina](img/scivosplash-image.png)</a>
 
 

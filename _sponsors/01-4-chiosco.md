@@ -7,4 +7,4 @@ layout: sponsor
 image: img/4-chiosco-image.png
 ---
 
-<a href="https://daumbertoalmare.it/" target="_blank">![pippo](img/4-chiosco-image.png)</a>
+<a href="https://daumbertoalmare.it/" target="_blank">![4° Chiosco da Umberto](img/4-chiosco-image.png)</a>
