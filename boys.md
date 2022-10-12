@@ -3,4 +3,6 @@ layout: teams
 title: Ragazzi
 ---
 
-Pagina in costruzione
+## Roster Serie D maschile
+
+![Roster Serie D](img/roster-serie-d.png)
