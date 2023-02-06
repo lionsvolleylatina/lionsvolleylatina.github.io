@@ -3,6 +3,8 @@ layout: teams
 title: Ragazzi
 ---
 
-## Roster Serie D maschile
+## Under 15
 
-![Roster Serie D](img/roster-serie-d.png)
+Ecco i nostri ragazzi della Chemical Battistella Lions Volley Latina e della Lions Volley Latina Red:
+
+![Roster Serie D](img/foto_under15M.jpeg)
