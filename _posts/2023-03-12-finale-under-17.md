@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Lions Volley Latina, la under 17 vice campione provinciale
-image: /img/2023-03-23-finale-under-17.jpg
+image: /img/2023-03-12-finale-under-17.jpg
 author: Lo staff di Lions Volley
-image-sec: /img/2023-03-23-finale-under-17.jpg
+image-sec: /img/2023-03-12-finale-under-17.jpg
 ---
 
 Finale fatale in tutti i sensi per la U17M della [@lions_volley_latina](https://www.instagram.com/lions_volley_latina/). Sconfitta dalla [@topvolley1972](https://www.instagram.com/topvolley1972/) per 3-2 nella finale Territoriale per l’accesso alla fase Regionale.
