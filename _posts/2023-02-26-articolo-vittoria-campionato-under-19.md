@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Lions Volley Latina, la Under 19 vola alle fasi regionali
-image: /img/2023-02-26-articolo-vittoria-campionato-under-12.webp
+image: /img/2023-02-26-articolo-vittoria-campionato-under-19.webp
 author: Silvio Bagnara - Ufficio Stampa - Lions Volley Latina
-image-sec: /img/2023-02-26-articolo-vittoria-campionato-under-12.webp
+image-sec: /img/2023-02-26-articolo-vittoria-campionato-under-19.webp
 ---
 
 Pubblicato su: [Notizie Sportive](https://notiziesportive.altervista.org/lions-volley-latina-la-under-19-vola-alle-fasi-regionali/)
