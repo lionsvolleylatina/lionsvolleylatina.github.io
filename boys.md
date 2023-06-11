@@ -7,4 +7,4 @@ title: Ragazzi
 
 Ecco i nostri ragazzi della Chemical Battistella Lions Volley Latina e della Lions Volley Latina Red:
 
-![Roster Serie D](img/foto_under15M.jpeg)
+![Under 15 maschile](img/foto_under15M.jpeg)

@@ -3,9 +3,11 @@ layout: season
 title: Stagione 2022/2023
 ---
 
-## Roster Serie D maschile
+## La punta di diamante: Serie D maschile
 
-![Roster Serie D](img/roster-serie-d.png)
+![Serie D maschile](img/foto_serieD.png)
+
+![Roster Serie D maschile](img/roster-serie-d.png)
 
 ## La nostra Prima Divisione Maschile
 
