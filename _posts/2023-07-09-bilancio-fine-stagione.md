@@ -8,7 +8,7 @@ image-sec: /img/2023-07-09-bilancio-fine-stagione.png
 
 Con la consueta cena di fine stagione, si è concluso anche il secondo anno di attività della [Lions Volley Latina](https://www.lionsvolleylatina.it), che rispetto alla stagione del battesimo nel panorama pallavolistico territoriale e regionale, ha avuto numeri di crescita esponenziale, sia nei risultati ottenuti sul campo che nelle presenze dei tanti giovani che sono approdati nella società neroarancio.
 
-E come ogni tradizione che si rispetti, le parole di chiusura, di congedo, del rompete le righe per la stagione 2022/23, spettano alle figure più rappresentative del sodalizio stesso, vale a dire il Presidente [Pietro Ferrarese](https://www.instagram.com/ilconte1966_/) e il Direttore Tecnico e Sportivo, [Francesco “Scott” Fortunato(https://www.instagram.com/scottfortune59/)].
+E come ogni tradizione che si rispetti, le parole di chiusura, di congedo, del rompete le righe per la stagione 2022/23, spettano alle figure più rappresentative del sodalizio stesso, vale a dire il Presidente [Pietro Ferrarese](https://www.instagram.com/ilconte1966_/) e il Direttore Tecnico e Sportivo, [Francesco “Scott” Fortunato](https://www.instagram.com/scottfortune59/)].
 
 ### Le parole del Presidente
 
