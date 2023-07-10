@@ -6,6 +6,6 @@ author: Lo staff di Lions Volley
 image-sec: /img/2023-07-09-pre-iscrizioni.png
 ---
 
-Sono aperte le pre-iscrizioni per mini-volley Under 13 M Under 14 F Under 15 M Under16 F Under 17M Under 18 F Under 19 M  Divisione M e F.. entra nella famiglia LIONS 🦁
+Sono aperte le pre-iscrizioni per mini-volley, Under 13 Maschile, Under 14 Femminile, Under 15 Maschile, Under16 Femminile, Under 17 Maschile, Under 18 Femminile, Under 19 Maschile,  Divisione Maschile e Femminile. Entra nella famiglia LIONS! 🦁
 
-Vai sul [nostro profilo instagram](https://www.instagram.com/p/CucRHtONHS1/)
+[Ecco il link per iscriverti](https://preiscrizioni.golee.it/lions-volley-latina)
