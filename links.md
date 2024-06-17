@@ -7,4 +7,4 @@ facebook: https://www.facebook.com/Lionsvolleylatina/
 # image: /img/home.jpg
 ---
 
-Ci puoi contattare su Whatsapp o puoi scriverci una mail, ma ricordati anche di seguirci su Facebook!
+Ci puoi contattare su Whatsapp o puoi scrivere una mail, ma ricordati anche di seguirci su Facebook!
