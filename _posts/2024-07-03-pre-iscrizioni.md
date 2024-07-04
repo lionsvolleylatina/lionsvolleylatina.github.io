@@ -19,6 +19,6 @@ In alternativa, scannerizza questo QR code
 
 ![QR per l'iscrizione](https://github.com/lionsvolleylatina/lionsvolleylatina.github.io/assets/440638/35a765fa-aa29-4448-8aa1-ed8119c59536)
 
-Segui il link nella storia 👆🏻a te non costa nulla ma per noi fa una gran differenza🫶🏻
+[Seguici su Instagram](https://www.instagram.com/lionsvolleylatina/) 👆🏻a te non costa nulla ma per noi fa una gran differenza🫶🏻
 
 [#lionsvolleylatina](https://www.instagram.com/explore/tags/lionsvolleylatina/) [#newseason](https://www.instagram.com/explore/tags/newseason/)
