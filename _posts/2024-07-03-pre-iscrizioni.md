@@ -22,4 +22,4 @@ Segui il link nella storia 👆🏻a te non costa nulla ma per noi fa una gran d
 
 In alternativa, scannerizza questo QR code
 
-[]![QR per l'iscrizione](https://github.com/lionsvolleylatina/lionsvolleylatina.github.io/assets/440638/35a765fa-aa29-4448-8aa1-ed8119c59536)(https://moduli.golee.it/lions-volley-latina/iscrizione-stagione-20242025)
+![QR per l'iscrizione](https://github.com/lionsvolleylatina/lionsvolleylatina.github.io/assets/440638/35a765fa-aa29-4448-8aa1-ed8119c59536)
