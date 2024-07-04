@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sono aperte le pre-iscrizioni per la stagione 2024/2025
-image: /img/2023-07-09-pre-iscrizioni.png
+image: /img/2024-07-04-pre-iscrizioni.png
 author: Lo staff di Lions Volley
 image-sec: /img/2023-07-09-pre-iscrizioni.png
 ---
