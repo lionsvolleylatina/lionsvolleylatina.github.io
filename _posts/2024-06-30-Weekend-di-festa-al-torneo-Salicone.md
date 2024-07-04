@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekend di festa al torneo Salicone
-image:/img/2024-06-30-Weekend di festa al torneo Salicone.jpg
+image: /img/2024-06-30-Weekend di festa al torneo Salicone.jpg
 author: Lo staff di Lions Volley
 image-sec: /img/2024-06-30-Weekend di festa al torneo Salicone.jpg
 ---
