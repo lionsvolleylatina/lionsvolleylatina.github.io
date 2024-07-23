@@ -1,8 +1,24 @@
+
+
+
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-small {% endif %} is-bold is-dark" {% if page.image %} style="background: url('{{ page.image | prepend: site.baseurl }}') no-repeat center center; background-color: black;" {% endif %}>
-    <div class="hero-body">
+    {%if page.show_video %}
+    <video id="homevideoheader" 
+    autoplay 
+    -poster="https://pallavologrosseto.it/wp-content/uploads/page/2/home/si-riprencipia.mp4" 
+    loop
+    muted 
+    playsinline 
+    _src="https://pallavologrosseto.it/wp-content/uploads/page/2/home/si-riprencipia.mp4" 
+    style="overflow: hidden; z-index: -1; position:absolute;left:50%;top:0;transform:translate(-50%,0);-webkit-transform:translate(-50%,0);-moz-transform:translate(-50%,0);-ms-transform:translate(-50%,0)" 
+    src="https://pallavologrosseto.it/wp-content/uploads/page/2/home/si-riprencipia.mp4">
+    </video>
+    {% endif %}
+    <div class="hero-body ">
         <div class="container">
             <p class="title is-2">{{ page.title }}</p>
             <p class="subtitle is-3">{{ page.subtitle }}</p>
         </div>
     </div>
 </section>
+

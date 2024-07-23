@@ -2,6 +2,14 @@
     min-height: 40vh;
 }
 
+.hero.is-80height {
+    min-height: 80vh;
+}
+
+.hero.is-100height {
+    min-height: 100vh;
+}
+
 .content {
     ul.pagination-list {
         list-style: none;
@@ -60,4 +68,8 @@ div.highlight {
 .sponsor-media {
     padding: 1.5rem;
     background: $light;
+}
+
+video {
+    max-width: fit-content;
 }
