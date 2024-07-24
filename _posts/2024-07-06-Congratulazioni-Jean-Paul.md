@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Congratulazioni Jean Paul 🎓🦁
-image: /img/2024-07-08-sara-pellizzon.jpg
-image-sec: /img/2024-07-08-sara-pellizzon.jpg
+image: /img/2024-07-06-congratulazioni-Jean-Paul.jpg
+image-sec: /img/2024-07-06-congratulazioni-Jean-Paul.jpg
 author: Lo staff di Lions Volley
 ---
 
