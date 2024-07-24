@@ -76,3 +76,12 @@ div.highlight {
 video {
     max-width: fit-content;
 }
+
+.container-flex {
+    height: 80vh;
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
