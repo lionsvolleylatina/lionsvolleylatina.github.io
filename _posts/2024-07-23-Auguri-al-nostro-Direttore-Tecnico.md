@@ -6,5 +6,6 @@ image-sec: 2024-07-23-Auguri-al-nostro-Direttore-Tecnico.png
 author: Lo staff di Lions Volley
 ---
 
-Tanti auguri di buon compleanno🎉 al nostro Direttore Tecnico Francesco Fortunato
+Tanti auguri di buon compleanno🎉 al nostro Direttore Tecnico Francesco Fortunato!
+
 
