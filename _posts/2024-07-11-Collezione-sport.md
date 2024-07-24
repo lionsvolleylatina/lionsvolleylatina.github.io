@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Collezione sport
-image: 2024-07-11-Collezione-sport.png
-image-sec: 2024-07-11-Collezione-sport.png
+image: /img/2024-07-11-Collezione-sport.png
+image-sec: /img/2024-07-11-Collezione-sport.png
 author: Lo staff di Lions Volley
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Congratulazioni Luca 🎓🦁
-image: 2024-07-14-Congratulazioni-Luca.png
-image-sec: 2024-07-14-Congratulazioni-Luca.png
+image: /img/2024-07-14-Congratulazioni-Luca.png
+image-sec: /img/2024-07-14-Congratulazioni-Luca.png
 author: Lo staff di Lions Volley
 ---
 
