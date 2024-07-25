@@ -1,8 +1,8 @@
 ---
 layout: post
 title: La nostra u17 maschile presente al Memorial "Sara Pellizzon"
-image: /img/2024-07-08-sara-pellizzon.jpg
-image-sec: /img/2024-07-08-sara-pellizzon.jpg
+image: /img/2024-07-07-Memorial-Sara-Pellizzon.png
+image-sec: /img/2024-07-07-Memorial-Sara-Pellizzon.png
 author: Lo staff di Lions Volley
 ---
 
