@@ -2,6 +2,18 @@
     min-height: 40vh;
 }
 
+.hero.is-80height {
+    min-height: 80vh;
+}
+
+.hero.is-100height {
+    min-height: 100vh;
+}
+
+.opaque {
+    background-color: white;
+}
+
 .content {
     ul.pagination-list {
         list-style: none;
@@ -20,7 +32,6 @@ div.highlight {
 .navbar-item {
     font-family: "MonsterMech";
 }
-
 
 @include desktop {
     .navbar-item {
@@ -60,4 +71,33 @@ div.highlight {
 .sponsor-media {
     padding: 1.5rem;
     background: $light;
+}
+
+video {
+    max-width: fit-content;
+}
+
+.container-flex {
+    height: 80vh;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.home-button {
+    max-width: 25%;
+    min-width: 25%;
+}
+
+@media screen and (max-width: 1024px) {
+    .container-flex {
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .home-button {
+        max-width: 40%;
+        min-width: 40%;
+    }
 }

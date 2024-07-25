@@ -1,8 +1,44 @@
-<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-small {% endif %} is-bold is-dark" {% if page.image %} style="background: url('{{ page.image | prepend: site.baseurl }}') no-repeat center center; background-color: black;" {% endif %}>
-    <div class="hero-body">
+<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-small {% endif %} is-bold is-dark" style="background: transparent;" >
+    
+    {%if page.show_video %}
+        <video id="homevideoheader" 
+            autoplay 
+            -poster="https://videos.pexels.com/video-files/2715412/2715412-uhd_3840_2160_30fps.mp4" 
+            loop
+            muted 
+            playsinline 
+            _src="https://videos.pexels.com/video-files/2715412/2715412-uhd_3840_2160_30fps.mp4" 
+            style="overflow: hidden; z-index: -1; position:absolute;left:50%;top:0;transform:translate(-50%,0);-webkit-transform:translate(-50%,0);-moz-transform:translate(-50%,0);-ms-transform:translate(-50%,0)" 
+            src="https://videos.pexels.com/video-files/2715412/2715412-uhd_3840_2160_30fps.mp4">
+        </video>
+    {% endif %}
+
+    <div class="hero-body ">
         <div class="container">
             <p class="title is-2 has-background-white has-text-black">{{ page.title }}</p>
             <p class="subtitle is-3">{{ page.subtitle }}</p>
         </div>
+
+        {%if page.show_video %}
+
+        <div class="container-flex">
+            <div class="home-button">
+                <a href="/2024/07/03/pre-iscrizioni/" class="screen100-img" >
+                    <img style="width: 100%;" src="/img/2024-07-04-pre-iscrizioni.png" alt="" />
+                </a>
+            </div>
+            <div class="home-button">
+                <a href="https://pallavologrosseto.it/summer-camp/" class="screen100-img" >
+                    <img style="width: 100%;" src="/img/home.jpg" alt="" />
+                </a>
+            </div>
+            <div class="home-button">
+                <a href="https://pallavologrosseto.it/summer-camp/" class="screen100-img" >
+                    <img style="width: 100%;" src="/img/home.jpg" alt="" />
+                </a>
+            </div>
+        </div>
+
+        {% endif %}
     </div>
 </section>
