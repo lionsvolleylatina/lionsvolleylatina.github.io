@@ -5,3 +5,4 @@
 - vedere se possibile mettere feed facebook nella home
     - bisogna vedere su facebook come si fa
 - linkare la pagina della classifica su fipavonline
+- [ ] Ristrutturare il sito
