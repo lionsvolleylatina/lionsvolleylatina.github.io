@@ -3,13 +3,12 @@
     {%if page.show_video %}
         <video id="homevideoheader" 
             autoplay 
-            -poster="/video/home.webm" 
-            loop
+            -poster="/video/bg-small.webm" 
             muted 
             playsinline 
-            _src="/video/home.webm" 
+            _src="/video/bg-small.webm" 
             style="width: 100vw; height: 100vh; object-fit: cover; overflow: hidden; z-index: -1; position:absolute;left:50%;top:0;transform:translate(-50%,0);-webkit-transform:translate(-50%,0);-moz-transform:translate(-50%,0);-ms-transform:translate(-50%,0)" 
-            src="/video/home.webm">
+            src="/video/bg-small.webm">
         </video>
     {% endif %}
 
@@ -32,6 +31,12 @@
                 <a href="{{ page.link2 }}" class="screen100-img" >
                     <img style="width: 100%;" src="{{ page.foto2 }}" alt="" />
                     <p class="home-button-text">{{ page.text2 }}</p>
+                </a>
+            </div>
+            <div class="home-button">
+                <a href="{{ page.link3 }}" class="screen100-img" >
+                    <img style="width: 100%;" src="{{ page.foto3 }}" alt="" />
+                    <p class="home-button-text">{{ page.text3 }}</p>
                 </a>
             </div>
         </div>
