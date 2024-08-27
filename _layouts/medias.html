@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="content">
+    {{ content }}
+</div>
+
+<div class="columns is-multiline">
+    {% for media in site.medias %}
+        <div class="column is-4">
+            {% include media-media.html %}
+        </div>
+    {% endfor %}
+</div>
+
+<video src="/media/integrale2024.webm" controls type="video/webm"></video>
