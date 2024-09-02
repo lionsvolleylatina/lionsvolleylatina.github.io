@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ferrarese e Fortunato tracciano il bilancio di fine stagione
-image: /img/2023-07-09-bilancio-fine-stagione.png
+image: /img/2023-07-09-bilancio-fine-stagione-1.png
 author: Lo staff di Lions Volley
-image-sec: /img/2023-07-09-bilancio-fine-stagione.png
+image-sec: /img/2023-07-09-bilancio-fine-stagione-1.png
 ---
 
 Con la consueta cena di fine stagione, si è concluso anche il secondo anno di attività della [Lions Volley Latina](https://www.lionsvolleylatina.it), che rispetto alla stagione del battesimo nel panorama pallavolistico territoriale e regionale, ha avuto numeri di crescita esponenziale, sia nei risultati ottenuti sul campo che nelle presenze dei tanti giovani che sono approdati nella società neroarancio.

@@ -13,7 +13,7 @@ social:
     - https://www.facebook.com/Lionsvolleylatina/
 locale: it_IT
 image: https://www.lionsvolleylatina.it/img/home.jpg
-google_analytics: G-ZM76D26Q46
+google_analytics:
 
 paginate: 6
 paginate_path: "/page:num"
