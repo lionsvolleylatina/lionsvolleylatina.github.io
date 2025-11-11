@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Serie C terzo successo consecutivo
-image: /img/1-finale.jpg
+image: /img/2025-11-11-finale.jpg
 author: Staff Lions
 --- 
 
